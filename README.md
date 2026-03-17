@@ -19,7 +19,7 @@ class JayhindYadav:
         self.focus      = ["Python", "Django", "React", "REST APIs"]
         self.passion    = "Backend Development & Competitive Programming"
         self.education  = "B.E. Computer Science @ KNCEAR (2022–2026)"
-        self.email      = "<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e389829a8b8a8d87d3d2d3d1d1d3d3d0a3848e828a8fcd808c8e">[email&#160;protected]</a>"
+        self.email      = "jayhind01022003@gmail.com"
         self.fun_fact   = "I debug code better at midnight 🌙"
 
     def say_hi(self):
