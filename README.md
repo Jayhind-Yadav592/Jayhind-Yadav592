@@ -12,10 +12,10 @@
 ### 🧑‍💻 About Me:
 
 - 🔭 I'm currently working on **Full Stack Web Projects**
-- 🌱 I'm currently learning **Next.js, TypeScript & DevOps**
+- 🌱 I'm currently learning **React, TypeScript & DevOps**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 How to reach me: **jayhindyadav592@gmail.com**
+- 💬 Ask me about **React, Django, MongoDB, Express**
+- 📫 How to reach me: **jayhind01022003@gmail.com**
 - ⚡ Fun fact: **I debug code better at midnight 🌙**
 
 ---
