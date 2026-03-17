@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Jayhind+Yadav;Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+React+%7C+REST+APIs;Always+learning%2C+always+building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Jayhind+Yadav;Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+React+%7C+REST+APIs;Always+learning%2C+always+building!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jayhind-Yadav592&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jayhind-Yadav592&label=Profile%20views&color=00c896&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Jayhind-Yadav592?label=Followers&style=social" alt="followers" />
 </p>
 
@@ -19,8 +19,7 @@ class JayhindYadav:
         self.focus      = ["Python", "Django", "React", "REST APIs"]
         self.passion    = "Backend Development & Competitive Programming"
         self.education  = "B.E. Computer Science @ KNCEAR (2022–2026)"
-        self.email      = "jayhind01022003@gmail.com"
-        self.phone      = "+91 6393496909"
+        self.email      = "<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e389829a8b8a8d87d3d2d3d1d1d3d3d0a3848e828a8fcd808c8e">[email&#160;protected]</a>"
         self.fun_fact   = "I debug code better at midnight 🌙"
 
     def say_hi(self):
@@ -38,7 +37,7 @@ class JayhindYadav:
   <a href="https://linkedin.com/in/jayhind-yadav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:jayhind01022003@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#4329223a2b2a2d27737273717173737003242e222a2f6d202c2e">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -156,22 +155,19 @@ class JayhindYadav:
 ### 📈 Contribution Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayhind-Yadav592&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayhind-Yadav592&bg_color=1a1b27&color=00FF7F&line=00FF7F&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 
 ### 💡 Proficiencies:
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00D9FF?style=flat-square&logoColor=white)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-00D9FF?style=flat-square&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend_Development-00D9FF?style=flat-square&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-00D9FF?style=flat-square&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00FF7F?style=flat-square&logoColor=black)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-00FF7F?style=flat-square&logoColor=black)
+![Backend](https://img.shields.io/badge/Backend_Development-00FF7F?style=flat-square&logoColor=black)
+![REST](https://img.shields.io/badge/REST_APIs-00FF7F?style=flat-square&logoColor=black)
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
-<p align="center">⭐️ From <a href="https://github.com/Jayhind-Yadav592"><b>Jayhind-Yadav592</b></a></p>
+  <img src="https://quotes-git
